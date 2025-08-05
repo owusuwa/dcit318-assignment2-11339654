@@ -1,0 +1,15 @@
+C:\Users\Bram\Desktop\dcit318-assignment2-11339654\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.exe
+C:\Users\Bram\Desktop\dcit318-assignment2-11339654\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.deps.json
+C:\Users\Bram\Desktop\dcit318-assignment2-11339654\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.runtimeconfig.json
+C:\Users\Bram\Desktop\dcit318-assignment2-11339654\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.dll
+C:\Users\Bram\Desktop\dcit318-assignment2-11339654\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.pdb
+C:\Users\Bram\Desktop\dcit318-assignment2-11339654\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bram\Desktop\dcit318-assignment2-11339654\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.AssemblyInfoInputs.cache
+C:\Users\Bram\Desktop\dcit318-assignment2-11339654\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.AssemblyInfo.cs
+C:\Users\Bram\Desktop\dcit318-assignment2-11339654\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\Bram\Desktop\dcit318-assignment2-11339654\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.sourcelink.json
+C:\Users\Bram\Desktop\dcit318-assignment2-11339654\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.dll
+C:\Users\Bram\Desktop\dcit318-assignment2-11339654\AbstractClassDemo\obj\Debug\net8.0\refint\AbstractClassDemo.dll
+C:\Users\Bram\Desktop\dcit318-assignment2-11339654\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.pdb
+C:\Users\Bram\Desktop\dcit318-assignment2-11339654\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.genruntimeconfig.cache
+C:\Users\Bram\Desktop\dcit318-assignment2-11339654\AbstractClassDemo\obj\Debug\net8.0\ref\AbstractClassDemo.dll
