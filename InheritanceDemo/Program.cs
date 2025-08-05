@@ -8,19 +8,19 @@ class Animal
     }
 }
 
-class Wolf : Animal
+class Dog : Animal
 {
     public override void MakeSound()
     {
-        Console.WriteLine("Howl");
+        Console.WriteLine("Bark");
     }
 }
 
-class Koala : Animal
+class Cat : Animal
 {
     public override void MakeSound()
     {
-        Console.WriteLine("Bellow");
+        Console.WriteLine("Meow");
     }
 }
 
@@ -29,12 +29,13 @@ class Program
     static void Main()
     {
         Animal myAnimal = new Animal();
-        Wolf myWolf = new Wolf();
-        Koala myKoala = new Koala();
+        Dog myDog = new Dog();
+        Cat myCat = new Cat();
 
         myAnimal.MakeSound(); // Output: Some generic sound
-        myWolf.MakeSound();    // Output: Howl
-        myKoala.MakeSound();    // Output: Bellow
+        myDog.MakeSound();    // Output: Bark
+        myCat.MakeSound();    // Output: Meow
     }
 }
+
 
